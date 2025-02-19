@@ -4,7 +4,7 @@ import { motion, useScroll, useSpring } from 'framer-motion';
 import { Helmet } from 'react-helmet';
 
 // Importando cada componente individualmente
-import Hero from './components/sections/hero';
+import Hero from './components/sections/Hero';
 import Features from './components/sections/Features';
 import VideoSection from './components/sections/VideoSection';
 import Testimonials from './components/sections/Testimonials';
